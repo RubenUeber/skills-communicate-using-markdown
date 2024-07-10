@@ -12,7 +12,14 @@ $ git init
 Initialized empty Git repository
 ```
 <br/>
+
 ``` Javacript
 var myVar = "Hello, world!";
 ```
+
+- [x] List
+- [x] Complete
+- [ ] This item is not complete
+
+<br/>
 
